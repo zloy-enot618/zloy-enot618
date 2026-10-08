@@ -19,10 +19,10 @@
 ---
 
 <div align="center"> 
-  <img src="assaas.mp4" alt="Stalker Monolith1" width="500" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical&hide=markdown" alt="Top Languages" />
+  <video src="assaas.mp4" width="500" autoplay loop muted playsinline></video>
+  <br />
+  <img src="https://vercel.app" alt="Top Languages" />
 </div>
-
 
 
 ---
