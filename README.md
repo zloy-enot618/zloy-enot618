@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi there, I'm DTW-Chuvak! 👋</h1>
 
 ---
@@ -18,9 +20,9 @@
 
 ---
 
-<div align="center"> 
-  <video src="assaas.mp4" width="500" controls></video>
-</div>
+
+
+
 
 
 
