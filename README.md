@@ -50,7 +50,7 @@ I am planning to build a universal, high-performance content moderation library 
 ## Zone
 
 <div align="center">
-    <img src="stalker-shadow-of-chernobyl-monolith.gif" alt="Stalker Monolith" width="500" />
+    <img src="stalker-shadow-of-chernobyl-monolith (2).gif" alt="Stalker Monolith" width="500" />
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical&hide=markdown" alt="Top Languages" />>
 </div>
 
