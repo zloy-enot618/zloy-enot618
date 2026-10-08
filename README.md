@@ -18,6 +18,13 @@
 
 ---
 
+<div align="center">
+    <img src="assaas.mp4" alt="Stalker Monolith1" width="500" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical&hide=markdown" alt="Top Languages" />>
+</div>
+
+
+---
 ### 🚀 About Me
 I am a software developer focused on building desktop utilities, automation scripts, and game tools using **C#** and **.NET**. 
 
